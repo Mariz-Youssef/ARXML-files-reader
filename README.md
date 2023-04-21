@@ -26,7 +26,7 @@ the program should perform the following steps:
 
 -The output file shall be named as the same of the input file concatenated with “_mod.arxml”.
 
-*Any missing requirement is considered.
+-Any missing requirement is considered.
 
 # Files Description:
 
