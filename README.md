@@ -1,7 +1,7 @@
 # ARXML-files-reader:
 a program that reads an ARXML file containing a list of containers and reorders the containers alphabetically by their short names,
 ARXML stands for Autosar xml,
-Autosar stands for AUTomotive Open System ARchitectur.
+Autosar stands for AUTomotive Open System Architecture.
 # Program Description:
 the program should perform the following steps:\
 *the program reads an ARXML file containing a list of containers, each with a unique ID,and a name Sub-Container "SHORT-NAME".\
